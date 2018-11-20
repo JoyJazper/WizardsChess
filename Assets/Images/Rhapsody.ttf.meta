@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b717ca3cea670ed44be52197ad455931
+timeCreated: 1506494906
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rhapsody Black Letter
+  fontNames:
+  - Rhapsody Black Letter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
